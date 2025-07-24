@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91b69ebd9d699e0448b50fe482cfb25b, type: 3}
+  m_Name: Scarlet Dragonfly Card
+  m_EditorClassIdentifier: 
+  name: Scarlet Dragonfly
+  latinName: Sieboldius albardae
+  biography: 'Body length: ~85mm. Located in Japan, China, South Korea, and the Russian
+    Far East. Found near ponds, lakes, and marshes. It feeds on mosquitoes, midges,
+    flies, butterflies, and other small insects. It is the largest species of dragonfly
+    family in Japan.'
+  pictureOfBug: {fileID: 21300000, guid: dd44f23fc28abff4eac33af2438b49ea, type: 3}
+  rarity: N
+  foodCost: 4
+  healthPoint: 8
+  attackPower: 5
+  cardColor: {r: 1, g: 0, b: 0, a: 1}
